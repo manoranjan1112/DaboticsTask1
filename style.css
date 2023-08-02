@@ -1,0 +1,39 @@
+/* h3{
+    color: aqua;
+}
+p{
+    color: chartreuse;
+}  
+button{
+    color: crimson;
+    background-color: black;
+}
+body{
+    background-color: rgb(255, 0, 255);
+} */
+/* 2.
+div{
+    background-color:blue ;
+}
+
+.heading{
+    background-color: brown;
+}
+button{
+    color: green;
+} */
+/* p {
+    text-align: center;
+} */
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Times New Roman';
+}
+#outer{
+    font-size: 10px ;
+}
+#inner{
+    font-size: 25px;
+}
+
